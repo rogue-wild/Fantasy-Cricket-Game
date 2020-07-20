@@ -7,10 +7,10 @@ This is a Python GUI Game where you create a virtual team of real-life cricket p
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [Screenshots](#screemshot)
+- [Screenshots](#screemshots)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Run](#run)
+- [Run](#Run `fantasy-main.py` file on CMD.)
 - [Tools](#tools)
 
 ## Description
