@@ -1,5 +1,5 @@
-# Fantasy Cricket Game Windows Application
-# ~
+# Fantasy-Cricket-Game-Windows-Application
+
 <img width="482" alt="Cricket" src="https://user-images.githubusercontent.com/42809447/87987589-80d16f80-cafc-11ea-89e5-b31fb5e9ac70.png">
 This is a Python GUI Game where you create a virtual team of real-life cricket players and score points depending on how your chosen players perform in real life matches.
 
@@ -10,7 +10,7 @@ You're sections headers will be used to reference location of destination.
 - [Screenshots](#screenshots)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Run](#run.)
+- [Run](#run)
 - [Tools](#tools)
 
 ## Description
@@ -57,5 +57,5 @@ Fanatsy Cricket Game is built in python using "PyQt5" library specifically  "QtD
 
 
 
-[Back To The Top](#~)
+[Back To The Top](#Fantasy-Cricket-Game-Windows-Application)
 
