@@ -2,7 +2,7 @@
 
 It is Python GUI Game where you create a virtual team of real cricket players and score points depending on how your chosen players perform in real life matches.
 ## Description
-> Fanatsy Cricket Game is built in python using "Pyqt5" library specifically  "QtDesigner"(`QtCore`  `QtGui`  `QtWidgets`) for **GUI** development and using relational database management system "SqliteStudio(`sqlite3-DB-API-2.0`)" for **Back end database connectivity**.
+Fanatsy Cricket Game is built in python using "Pyqt5" library specifically  "QtDesigner"(`QtCore`  `QtGui`  `QtWidgets`) for **GUI** development and using relational database management system "SqliteStudio(`sqlite3-DB-API-2.0`)" for **Back end database connectivity**.
 
 ## Requirements
 ### Install Some Necessary Packages and Softwares
@@ -17,4 +17,4 @@ It is Python GUI Game where you create a virtual team of real cricket players an
       * pip install db-sqlite3
  >3) [Install](`https://www.sqlite.org/download.html`) Sqlite3 Studio.
 
-### Run fantasy-main.py file on CMD.
+## Run fantasy-main.py file on CMD.
