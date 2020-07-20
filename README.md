@@ -1,5 +1,5 @@
 # Fantasy Cricket Game Windows Application
-
+# ~
 <img width="482" alt="Cricket" src="https://user-images.githubusercontent.com/42809447/87987589-80d16f80-cafc-11ea-89e5-b31fb5e9ac70.png">
 This is a Python GUI Game where you create a virtual team of real-life cricket players and score points depending on how your chosen players perform in real life matches.
 
@@ -7,10 +7,10 @@ This is a Python GUI Game where you create a virtual team of real-life cricket p
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [Screenshots](#screemshots)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Run](#Run `fantasy-main.py` file on CMD.)
+- [Run](#run.)
 - [Tools](#tools)
 
 ## Description
@@ -41,7 +41,8 @@ Fanatsy Cricket Game is built in python using "PyQt5" library specifically  "QtD
       * pip install db-sqlite3
  >3) [Install](`https://www.sqlite.org/download.html`) Sqlite3 Studio.
 
-## Run `fantasy-main.py` file on CMD.
+## Run
+1)Run `fantasy-main.py` file on CMD.
 >(You can also run the `fantasy-main.exe` file inside the `dist` folder.)
 
 ## Tools
@@ -56,5 +57,5 @@ Fanatsy Cricket Game is built in python using "PyQt5" library specifically  "QtD
 
 
 
-[Back To The Top](#Fantasy Cricket Game Windows Application)
+[Back To The Top](#~)
 
