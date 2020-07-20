@@ -1,6 +1,8 @@
 # Fantasy Cricket Game Windows Application
 
 It  is Python GUI Game where you create a virtual team of real cricket players and score points depending on how your chosen players perform in real life matches.
+## Description
+> Fanatsy cricket is build in python using "Pyqt5" library specifically  "QtDesigner"(`QtCore`  `QtGui`  `QtWidgets`) for **GUI** development and using relational database management system "SqliteStudio(sqlite3-DB-API-2.0)" for **Back end database connectivity**.
 
 ## Requirements
 # Install Some Necessary Packages and Softwares
