@@ -516,7 +516,7 @@ class Ui_MainWindow(object):
         ret = Dialog.exec()
 
 
-# main function... although pyhton doesn't have a main function
+# main function... although python doesn't have a main function.
 if __name__ == "__main__":
     import sqlite3
     conn = sqlite3.connect('fantasy.db')
